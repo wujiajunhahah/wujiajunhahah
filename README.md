@@ -16,3 +16,4 @@ Selected projects:
 - 📫 Contact: epwujiajun@icloud.com  
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I turn dreams into interactive 3D worlds — and calm routines into tangible systems.
+I’m currently building a series of phygital products exploring how technology can prompt calm action instead of attention overload.
