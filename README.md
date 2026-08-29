@@ -1,26 +1,28 @@
-# Jiajun Wu
+# 👋 Hi, I’m Jiajun Wu
 
-I design and build AI products that move beyond the chatbox—into apps, wearables, sensors, and embodied devices—so technology can serve people more naturally.
+Designer, builder, and occasional inventor of things nobody asked for—until they can actually try them.
 
-My background is in **Industrial Design and HCI**. I work across product thinking, interaction design, software, and hardware, taking ideas from an open question to a working prototype that can be tested in the real world.
+I turn strange questions into products you can **tap, wear, hold, or meet in the real world**. My playground sits somewhere between **Industrial Design, HCI, AI, software, and hardware**.
 
-Currently pursuing an MSc in **Technology Leadership and Entrepreneurship at HKUST**, after studying Industrial Design at the **School of Future Technology, Shenzhen Technology University**.
+🎓 Currently exploring technology leadership and entrepreneurship at **HKUST**, after studying Industrial Design at the **School of Future Technology, Shenzhen Technology University**.
 
-## What I’m building
+## 🛠️ What I’m building
 
-- **Personal Agents beyond the chatbox** — systems that understand context, respect boundaries, and act through interfaces, messages, or physical devices.
-- **AI hardware and embodied interaction** — connecting wearables, sensing, light, motion, and robotics into complete experiences.
-- **0→1 products** — turning technical possibilities into usable prototypes, early validation, and products people can try.
+- 🧠 **AI beyond the chatbox** — personal Agents that understand context, respect boundaries, and actually do something.
+- 🤖 **AI hardware & embodied interaction** — wearables, sensors, light, motion, robots, and the occasional opinionated desk lamp.
+- 🚀 **0→1 products** — from “what if?” to a prototype people can touch, test, break, and improve.
 
-## Selected work
+## ✨ A few things I’ve made
 
-- [**FocuX**](https://www.focux.me/) — a body-aware attention system that senses work strain and intervenes politely through an iPhone and an embodied lamp.
-- [**Loop「我在」**](https://www.wozai.space/) — a life-narrative and intergenerational legacy system built around authentic records, relationship-specific consent, and tangible entrustment.
-- [**SNAKE1**](https://gallery.adventure-x.cn/projects/cmrzwxlsk001d02l44pubryhl) — a personal Agent triggered by rings, glasses, and earbuds, capable of acting through messages, rescue calls, and a robotic dog.
-- [**Broaden 博听**](https://wujiajun.space/projects#broaden) — a sign-language-first museum guide combining AI exhibit recognition with real-time sign-language interaction.
+- 💡 [**FocuX**](https://www.focux.me/) — a wearable, an iPhone, and a moving lamp that notice work strain without becoming another annoying notification.
+- 🕊️ [**Loop「我在」**](https://www.wozai.space/) — a gentler way to leave authentic stories, voices, and objects with the people they belong to.
+- 🐍 [**SNAKE1**](https://gallery.adventure-x.cn/projects/cmrzwxlsk001d02l44pubryhl) — wake a personal Agent with a ring, glasses, or earbuds; it can text, call, or send in a robotic dog when reality gets awkward.
+- 🤟 [**Broaden 博听**](https://wujiajun.space/projects#broaden) — a sign-language-first museum guide that recognizes exhibits and lets their stories be experienced in sign language.
 
-More experiments and project records live at [**wujiajun.space**](https://wujiajun.space/).
+🔭 More experiments—including dreams turned into objects, collectible AR escapes, and a digital marimo—live at [**wujiajun.space**](https://wujiajun.space/).
 
-## Connect
+## 🌐 Find me
 
-[Portfolio](https://wujiajun.space/) · [Email](mailto:epwujiajun@icloud.com) · [Social](https://bonjour.bio/gaazone)
+🖥️ [Portfolio](https://wujiajun.space/) · 📫 [Email](mailto:epwujiajun@icloud.com) · 🪩 [Social](https://bonjour.bio/gaazone)
+
+⚡ **Current side quest:** getting AI out of chat boxes and into the messy, physical world.
