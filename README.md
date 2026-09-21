@@ -1,1 +1,1 @@
-building my self
+building myself
